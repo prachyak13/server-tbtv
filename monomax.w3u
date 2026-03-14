@@ -1,0 +1,230 @@
+{
+  "name": "server tbtv",
+  "image": "xxx",
+  "author": "update 15/03/26",
+  "groups": [
+    {
+      "name": "MONOMAX",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "monomax1",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax2",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax3",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax3",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax4",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax4",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax5",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax5",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax6",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax6",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax7",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax7",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax8",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax9",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax9",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax10",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax10",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax11",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax11",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax12",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax12",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax13",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax13",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax14",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax14",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax15",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax15",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax16",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax16",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax17",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax17",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax18",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax18",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax19",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax19",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax20",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax20",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax21",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax21",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax22",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax22",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax23",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax23",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax24",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax24",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
+    }
+  ]
+}
