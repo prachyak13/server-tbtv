@@ -48,18 +48,18 @@
           "name": "monomax5",
           "image": "https://i-pic.info/i/raw/J9pc1742730",
           "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax5",
-          "userAgent": "Mozilla/5.0",
-          "info": "Server github",
-          "playInNatPlayer": false
+          "userAgent": "VLC/3.0.18",
+  "info": "Direct Link - TBTV",
+  "playInNatPlayer": false
         },
         {
           "name": "monomax6",
           "image": "https://i-pic.info/i/raw/J9pc1742730",
           "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax6",
           "referer": "http://tbtv.me:2095/",
-          "userAgent": "Mozilla/5.0",
-          "info": "Server github",
-          "playInNatPlayer": false
+          "userAgent": "VLC/3.0.18",
+  "info": "Direct Link - TBTV",
+  "playInNatPlayer": false
         },
         {
           "name": "monomax7",
