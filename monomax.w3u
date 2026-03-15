@@ -12,10 +12,9 @@
           "name": "monomax1",
           "image": "https://i-pic.info/i/raw/J9pc1742730",
           "url": "https://raw.githubusercontent.com/prachyak13/server-tbtv/refs/heads/main/monomax1",
-          "referer": "https://github.com/",
-          "userAgent": "Mozilla/5.0",
-          "info": "Server github",
-          "playInNatPlayer": true
+          "userAgent": "VLC/3.0.18",
+  "info": "Direct Link - TBTV",
+  "playInNatPlayer": false
         },
         {
           "name": "monomax2",
